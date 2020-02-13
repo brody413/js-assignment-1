@@ -1,0 +1,28 @@
+body{
+  background-color: orange;
+}
+header{
+  text-decoration: underline;
+  text-align: center;
+  font-weight: bold;
+}
+
+footer{
+  text-decoration: underline;
+  text-align: center;
+}
+
+#inputs{
+  text-align: center;
+}
+#txt{
+  text-decoration: underline;
+}
+#TheList{
+  text-align: center;
+  font-weight: bold;
+  background-color: red;
+}
+ul{
+  list-style: none;
+}
